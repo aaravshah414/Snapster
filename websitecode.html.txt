@@ -1,0 +1,25 @@
+<a href="">About Us,  </a><!DOCTYPE html>
+<html>
+<a href="">Contact us,</a>
+<body>
+<a href="file:///C:/Users/Aarav%20shah/Desktop/odingbaba/signup.html">Sign up,</a>
+<body>
+<a href="file:///C:/Users/Aarav%20shah/Desktop/odingbaba/login.html">Login,</a>
+<body>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lime;
+}
+</style>
+</head>
+<body>
+
+<h1>Hey welcome to best friend matcher!</h1>
+
+<p>Best friend matcher is a website in which you can make bestfriends by same intrests. </p>
+
+</body>
